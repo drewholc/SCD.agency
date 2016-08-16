@@ -1,0 +1,27 @@
+body {
+  background-color: #FF8001;
+}
+
+img {
+  margin-bottom: 30px;
+}
+.row {
+  background-color: #FFF;
+}
+
+iframe {
+  margin-bottom: 20%;
+}
+
+a {
+  color: #FF8001;
+}
+
+a:hover {
+  color: #E2E6E7;
+  border: 0;
+}
+
+a:visited, a:active, a:focus {
+  color:#566165;
+}
