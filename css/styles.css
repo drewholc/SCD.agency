@@ -10,6 +10,7 @@ body {
 
 .title {
   font-weight: 100;
+  font-family: 'Poppins', 'Helvetica', 'Arial', sans-serif;
   animation-delay: 0.1s;
   color: #FFFFFF;
   margin-bottom: 0;
@@ -19,13 +20,27 @@ body {
 }
 
 .heading {
-  margin-top:25%;
-  margin-left:15%;
-  margin-bottom: 25%;
+  margin-top:17%;
+  margin-left:20%;
+  margin-bottom: 17%;
 }
 /*===========================END OF HEADING=========================*/
 
 /*==========================ABOUT=====================================*/
+.second {
+  margin-top: 10%;
+  margin-bottom:15%;
+}
+
+.third {
+  margin-top: 10%;
+  margin-bottom: 15%
+}
+
+.approach {
+  font-size: 58px;
+}
+
 .orange {
   color: #FF7E02;
 }
@@ -38,6 +53,13 @@ span {
 .produce {
   position: relative;
   z-index: 2;
+  margin-top: 10%;
+  margin-bottom: 45%;
+}
+
+.sixth {
+  margin-top:10%;
+  margin-bottom:15%;
 }
 
 .background-logo>img {
